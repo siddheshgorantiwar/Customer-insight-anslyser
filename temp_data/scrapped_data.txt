@@ -1,0 +1,1968 @@
+hello and namaste everyone pratima here
+and today i will be talking about
+motorola's latest 5g mid-range phone the
+moto g715g it costs 19 000 rupees in
+india and 300 euros in the european
+market for the sole 6 128gb variant and
+at this price if you take a quick look
+at its specs it does seem a bit boring
+however motorola is one of the very few
+brands that offers a clean stock android
+experience but is that enough in 2022
+for that one of my team members and avid
+motorola fan since the days of moto g
+first gen and moto x style has been
+using the moto g71 for more than a month
+now and i will be sharing all his
+experiences here okay first things first
+what we really liked about the moto g71
+is its design the last g series phones
+from motorola the g40 and g60 to be very
+honest had pretty boring designs but the
+g71 is quite the opposite granted it's
+still a plastic bag with a glass like
+finish but it's sure to grab your
+attention as it did mine especially in
+this arctic blue variant it looks quite
+refreshing and surprisingly premium too
+another thing about this color is that
+fingerprints and smudges are less
+noticeable than they would be on a black
+glossy surface
+so even without a cover the g71 does not
+appear as
+messy or untidy as it might be
+moreover at 8.5 millimeters of thickness
+and just 179 grams of weight the g71 is
+quite ergonomic to anyone with small
+hands and you will have no complaints
+regarding its weight distribution too
+the back also houses a fingerprint
+scanner with the iconic bat wing
+motorola logo and after some days your
+index finger will rest perfectly on this
+however the sensor itself is a tad bit
+slower sadly the g71 is also void of any
+kind of ip rating motorola does say that
+it has a water repellent design and the
+hybrid sim tray also enjoys rubber
+gasket protection to prevent from water
+and moisture damage
+anyways it has a dedicated google
+assistant key placed on the right frame
+while the buttons here have decent
+tactile feedback too you will not miss
+out on a 3.5 mm headphone jack here
+either all right up front we get a 6.4
+inches amoled panel with full hd plus
+resolution it's a good quality amoled
+screen that delivers a pitch black
+contrast a great color reproduction as
+well as viewing angles and although it
+does not come with hdr certification or
+anything of that sort the full hd
+content looks good here because of a
+good quality panel the experience would
+have been even better if motorola could
+have gone with a bit slimmer chin up
+front though with 700 nits of brightness
+outdoor visibility is not much of an
+issue on the screen either
+plus the ambient light sensor works well
+enough to adjust the illumination level
+that said the big miss on this screen is
+the lack of a higher refresh rate
+yes the g71 settles for a standard 60hz
+panel and motorola has not compensated
+for this with the inclusion of a higher
+touch sampling rate either yet one
+crucial thing to understand here is
+unlike other 5g phones in this price
+bracket such as the redmi note 11 t5g or
+the real me 8 s5g that comes with an ips
+screen moto has included an amoled
+screen here which is definitely pretty
+worthy and if you ask me i am totally
+down for a contrast rich amoled panel
+over the higher refresh rate ips screen
+any day
+now let's talk about the hardware
+underneath the motorola 371 is powered
+by the 6nm snapdragon 695 chipset which
+we are going to see on plenty of
+mid-range phones in 2022 including the
+upcoming redmi note 11 pro 5g the
+snapdragon 695 despite its weird naming
+convention is slightly upgraded version
+of the snapdragon 750g with a 6nm
+process node and powerful cortex a78
+course another thing that i need to
+highlight here is that it has umcp
+storage umcp basically means a unified
+multi-chip package that integrates dram
+and ufs storage onto a single chip
+taking up less space than a discrete
+memory and storage solution in our real
+world usage the g71 handled day-to-day
+tasks pretty well and you will have no
+complaints regarding its ram management
+either it can easily store 8 to 10 apps
+in its memory and multitasking between
+the apps is a breeze too pair that with
+motorola's optimized my ux interface the
+overall experience gets even better it
+also does not have any bloatware app
+pre-installed plus you get all the moto
+exclusive features like top top and
+twists that you can take advantage of on
+to the gaming side of things pubg mobile
+caps out at hd graphics and high frame
+rate settings where you can get a fairly
+stable 30fps gameplay but for the
+smoothest experience you can dial down
+the setting to smooth graphics and ultra
+frame rates where you can enjoy 40 fps
+gameplay with no hiccups or anything of
+that sort
+likewise call of duty mobile is pretty
+optimized and is playable at high
+graphics and max frame rates with
+minimal jitters however the snapdragon
+695 does not handle graphic intensive
+games like gauge and impact that will
+you have to dial down everything in the
+setting to load to get a playable 30 fps
+gameplay and even at this setting
+starters greet you every now and then by
+the way there's also a high performance
+setting in the moto game time mode yet i
+did not find any major performance bump
+after turning it on but overall the moto
+g71 is a very good phone for day-to-day
+usage the haptic feedback of the moto
+g71 is quite decent too it definitely
+does not compare against the high-end
+phones but it's good for a mid-range
+device
+sadly in the software update scenario
+it's bad news it's still on android 11
+and despite the company claiming that
+they would roll out android 12 firmware
+by the end of february i am yet to
+receive one but what's even more
+frustrating is that it is eligible for
+just a year of os upgrade yes just one
+year that means that it will only get
+updates from android 11 to android 12
+and this is really disappointing for a
+company famed for its clean android
+experience so i hope motorola looks into
+this and provides at least an update for
+two years because that's a bare minimum
+for a mid-range phone in my books
+anyway what's great about the moto g71
+is its battery life the company has
+managed to fit a big five thousand
+milliamp hour cell on this leak form
+factor and that's already something even
+with heavy usage consisting of hours of
+content consumption gaming photo and
+video shooting and casual web browsing
+all through the review period we managed
+to net out 9 to 10 hours of screen on
+time and not only this it's standby time
+is pretty impressive as well i'll go as
+far as to say that it's as good as the
+iphones the max overnight battery drain
+i have found on this device is just two
+to three percent
+charging this phone is not taxing either
+it ships with a 33 watt fast charger
+inside the box that takes around one
+hour and five minutes to fully juice up
+the device
+[Music]
+all right on to the cameras based on my
+past experience with mid-range motorola
+phones cameras were never the strongest
+suit of those devices so i was eager to
+see if the g71 can save its reputation
+this time
+sadly the story remains the same as you
+can see from these camera samples
+generally the daytime photos from its
+primary sensor come off with low
+contrast
+with good lighting conditions maintained
+you can get good results with natural
+colors besides that the images have a
+slightly warm tone and the dynamic range
+is good enough for a mid-range device
+the ultra white photos don't retain much
+detail and i also notice color fringing
+in its images which occurs when the
+camera's image processing results in
+colored edges moreover when shooting in
+direct sunlight the photos get hazy too
+okay when it comes to nighttime
+photography as with most other mid-range
+phones you will notice muddy images with
+very less detail the night mode does not
+work as effectively as expected either
+most of the time the g71's
+post-processing brightens the entire
+image and makes it appear unnatural and
+the details do not improve significantly
+either also the images lack proper
+exposure control as well in portrait
+images the edge detection is good if you
+have even light and it preserves skin
+tone will similarly the hdr processing
+works effectively to preserve the
+background bokeh effect too however the
+selfies from its 16 megapixel camera are
+not that good it yields average results
+even if you maintain a good lighting
+condition okay in terms of videography
+the back cameras can capture 1080p
+videos at up to 60 fps but as you can
+see the stabilization is only available
+at 30 fps and the 60 fps video comes off
+quite verbally the selfie videos on the
+moto g71 5g caps out at 1080p 30fps and
+the field of view is not very wide
+either as you can see this object looks
+very soft and there's not much detail to
+talk about here lastly for audio you
+only get a mono speaker here with
+support for dolby atmos so if you're
+coming from a stereo speaker setup you
+will surely miss the immersive audio
+experience however this mono speaker
+setup is quite loud and is fine for
+watching youtube videos and such even at
+the highest volume vocals sound pretty
+clear and there's some bass to notice as
+well likewise i haven't faced any
+problem in terms of call quality while
+the proximity sensor works very well too
+[Music]
+so is the motorola g71 5g a good
+mid-range option well my answer will be
+a yes as well as a no see if you want a
+5g phone you should put these devices in
+an alternative universe where the
+mid-range value for money 4g smartphones
+do not exist and being a mid-range 5g
+phone the moto g71 has a bunch of
+talking points like an amoled screen a
+fairly capable chipset and a really good
+battery life my one criticism of the
+brand is that it could have done way
+better in terms of its cameras and its
+software update policy which would have
+made this device a better all-round
+package so if you're looking for a
+mid-range 5g phone and don't wander
+around places taking photos the moto g71
+5g is a great choice that being said if
+you want a true value for money
+smartphone that does not compromise on
+specs i would still recommend going with
+a 4g handset so guys that was all for
+our full review of the motorola g71 5g
+if you like this video don't forget to
+give it a thumbs up and while you're
+there don't forget to subscribe to our
+channel till then i'm pratima adhikari
+and thank you so much for watching
+[Music]
+hi guys this is ranjit and in this video
+we'll be doing the full review of this
+moto g71 smartphone and uh this is the
+retail uh box unit i just waited for
+this one so uh put my sim in this one so
+i'll be doing that and the good thing is
+that now we get a 33 watt charger in the
+box and like older moto phones that used
+to come with 15 or 20 watt channels so
+that's actually a nice thing so like
+here is the device itself and i'll
+divide it between the pros and cons what
+did i feel about this device while using
+it and i just yesterday changed my
+primary sim from this one to the oneplus
+9 rt so use this for over a week so i'll
+share my experience so let's start about
+the good things that i noticed then we
+moved to the cons and some of the cons
+are pretty silly that i noticed on this
+one okay the first thing is regarding
+the screen guys it's having a 6.4 inch
+screen and by the way guys here are all
+the specs for
+the moto g71 that is available in india
+and in fact watch the unboxing video if
+you want to get a general overview about
+this device because here i'm directly
+going to jump between the pros and cons
+okay the first thing is regarding the
+screen and it's an amoled screen guys
+and it's a normal full hd amoled screen
+and it's a good quality screen in fact i
+mounted this on my bike and i also used
+it for navigation and stuff and if you
+leave it on auto brightness the screen
+is bright enough 700 nits it's visible
+even in direct sunlight so in terms of
+the amoled screen they haven't
+compromised but again guys this is a
+normal what do you say uh 60hz screen
+not a 120 or a 90hz screen uh but
+overall i like the amoled screen on this
+one and it can also go pretty low at
+night so it doesn't stop what do you
+strain your eyes so it's a good uh
+quality screen that they have given on
+this one uh but again guys no in display
+fingerprint scanner or anything uh on
+this one you have the moto display so
+whatever notifications you get you get
+over here fingerprint scanner is here at
+the back i would say
+uh
+so it's a little bit odd position now
+i've gotten used to it but you have to
+pick up the phone uh they could have
+gone with the in-display fingerprint
+scanner it would have been a lot better
+but yeah this is what it is but in terms
+of screen quality it's a good quality
+amoled screen that you're getting the
+next thing is regarding the call quality
+and the earpiece and as i've told you
+guys i don't know about you guys but i
+do take a lot of business calls on the
+phone so having good call quality and
+earpiece is very
+imperative to me and here i have to say
+the call quality and this earpiece was
+very good
+uh even for long calls i did not have an
+issue and no proximity sensor issue on
+this device so that way for long calls
+also it's a good one the microphone
+quality is also good on this one it also
+has the secondary noise cancellation
+microphone so i took long calls on this
+one and nobody complained about the call
+quality on this one i also took some
+calls for the bluetooth headset you
+don't need to because it has a 3.5 mm
+headphone jack and the bluetooth
+performance was also good so in terms of
+call quality it was good uh i also took
+some calls with the speakerphone it's a
+single speaker guys no stereo but it was
+adequately loud so in that respect in
+terms of call quality if you're
+particular about call quality it's good
+another thing is that many of you keep
+asking me this one does have a carrier
+aggregation uh when i had my atl sim on
+this one i used to get that 4g plus
+symbol on this one and another thing
+that i like when i think so this is the
+best in this price range uh this is for
+19 000 in india and this one actually is
+having 13 bands of 5g so it's a proper
+5g uh phone and i also like the fact
+that this is coming with the brand new
+snapdragon 695 soc this is a brand new
+soc and the performance of this one is
+very very good don't mistake the six
+series on this one this could have been
+easily called a snapdragon 760 or
+something like that it's that good and
+it's based on six nanometer process if
+you recall the diamond city 1200 which
+is sort of the flagship from mediatek is
+based on six nanometer process and this
+is also on six nanometer process so it's
+an excellent great processor uh and it's
+also very very power efficient i'll talk
+about the battery life but in terms of
+day-to-day operations and everything no
+issues the processor handles everything
+you throw on it and even for gaming it's
+decent i'm not a hardcore gamers guys so
+if you want to know about hardcore
+gaming check out some other channels i
+played some casual games here and there
+a little bit of call of duty and stuff
+and it played fine on this one okay uh
+next thing that i have to talk about is
+uh the battery life that i was getting
+on this one this one has a 5000 milliamp
+hour battery and it's funny with this
+fast charger so it charges pretty
+quickly uh but the battery life that i
+was getting on this phone is spectacular
+again this comes back to the processor
+as i've told you 695 it's based on six
+nanometer process so it's a very power
+efficient processor and i was getting
+excellent excellent battery life
+i couldn't actually drain it in a single
+day uh so in terms of screen on time
+nine to ten hours of screen on time you
+should easily get with this one but to
+give you an idea again guys i just don't
+sit the entire day on the phone i also
+use a laptop for my work so it's a mix
+thing so this is my usage that i was
+typically getting let me actually show
+you i've seen saved some screenshots if
+you go to the photo and if you go to the
+library you have some screenshots over
+here and
+okay uh it was at 13
+and the last charge was two days ago so
+over 48 hours and noticed the screen on
+time seven hours sixteen minutes and
+still had thirteen percent left so this
+is the kind of battery life i'm getting
+and in fact it was heavy usage guys if
+you notice two hours 59 minutes that's
+almost three hours it was mounted on my
+bike for gps navigation so that's very
+hardcore usage then also i got this sort
+of battery life so battery life is a big
+strength of this one and easily for
+normal users one and a half to two days
+you will get so battery life is not an
+issue on this smartphone excellent
+excellent battery life that i got on
+this and i didn't have to baby around or
+think about the battery on this one the
+battery life was so good okay now moving
+to the next thing is regarding ram
+management guys ram management as it's a
+stock android phone guys no ads no
+nothing clean stock android experience
+that you're getting that's the beauty of
+a motorola smartphone so you're getting
+that uh the ram management was also good
+uh some of the apps that this need to be
+in memory like truecaller this might get
+that have to use and other stuff are
+were actually in memory and i didn't
+have to worry about it so the ram
+management is done very well on this
+device so you don't have to worry about
+that one uh one new thing that motorola
+has started doing this one with this
+smartphone is the rambus we have seen
+this with a lot of other chinese
+manufacturers they claim that ram
+virtual ram kind of thing so motorola is
+also implemented with this one but i
+think so it's sort of buggy let me
+actually show you uh if you go to the
+settings and if you have this moto g70
+but try this and let me know if you go
+to system
+and if you go to uh sorry if the
+performance here uh you'll see the ram
+boost by default this is switched on and
+you'll get a ram of about 7.5 gigabytes
+that 1.5 gigabytes it's sort of virtual
+ram and i just played around with this
+one and once i switched off this now
+it's that using that regular six
+gigabytes of ram i definitely felt that
+the phone was a lot more snappier and
+even that with that six gigabytes of ram
+uh i didn't have any issues of ram
+management so if you have this phone uh
+disable that ram boost thing and use it
+and see if you see a performance gain i
+don't know it's just me but i'm noticing
+it's a lot more fluid with that one
+maybe it's a bug they will fix it in a
+future update but that ram boost was
+enabled by default guys it's on by
+default okay uh moving to the next thing
+and uh this is regarding the camera uh
+we have the triple camera set up the
+main camera is a 20 megapixel then we
+have eight megapixels that's ultrawide
+then we have a 2 megapixel macro the
+front facing is a 16 megapixel that's a
+punch hole that we are getting and
+overall i would say here are some of the
+samples with this smartphone and i have
+to definitely say the camera rear facing
+camera performance has improved by leaps
+and bounds if you compare with older
+moto phones like the moto g60 or even
+the moto uh what is that h20 fusion or
+something like that definitely i would
+say the camera performance has improved
+so
+it's good to know that motorola is
+spending a little bit more time in after
+image processing because that's the area
+where they were lacking i'm moving to
+the front facing 16 megapixel camera
+here are some of the samples and again i
+would say the camera performance is
+decent but sometimes i notice slight
+blurring with the front facing camera
+hopefully they can lower the shutter lag
+that's to remove that but overall i
+would say the camera performance was
+actually pretty good in fact i also like
+the video that we get from the front
+facing camera it just zooms in but here
+is a sample shooting the video with the
+front facing camera of this moto g71 and
+the audio is also being recorded via the
+same so what do you feel about the video
+recording with the front-facing camera
+of this moto g71 it zooms in a little
+bit in the video mode i feel so guys
+these were the good things that i
+noticed about this device now let's move
+to the cons of this device and this is a
+very peculiar con
+and i'll give you my practical uh
+experience this smartphone for some
+reason does not have a compass sensor
+whereas some of the earlier moto phones
+the moto g31 etc had that uh and i did
+as i've told you use this for gps
+navigation mounting on my bike used it
+quite a bit so on google maps it's not
+like the maps do not work they work once
+you have a gps lock and generally these
+get gps lock very quickly within 15 20
+seconds so it works whenever you're
+moving also it moves but the problem is
+that as it does not have the compass
+sensor when i was going over flyers over
+flyers where you have where you don't
+have a direct line of sight and the gps
+signal is lost so if you make a turn
+it does not know that you have made a
+turn so um i miss the fact that it does
+not have a computer sensor it's not like
+i was not able to use the gps i used it
+quite a bit as i've
+used it for several days in fact when i
+was using this phone uh but again it
+misses the compass sensor and that can
+be lacking in certain situations i have
+to say let's say you don't get a gps
+signal uh you're going under bridges and
+bridges and bridges you have multiple
+lanes like that and because if it's a
+compass sensor
+it knows immediately when you're moving
+because it does not have that it has to
+rely on gps and if the gps signal is
+lost it does not know if you made a turn
+or not so that is where i missed the
+compass sensor uh so i don't know why
+they did it because in the some of the
+uh what do you say more affordable
+motorola phones the gps sensor is there
+so that is something that is missing on
+this smartphone also again as i've told
+you guys
+uh the screen is good it's an amoled
+screen and after disabling that ram
+boost it's a lot more fluid to be frank
+i would say but i wished it had an
+option of 90 hertz screen uh it's just a
+wishlist this is nitpicking guys not
+strictly a con but yeah that's my wish
+list i would say uh next thing is
+regarding and again this is a nitpicking
+because the moto g51 had the side
+mounted fingerprint scanner and i felt
+that was quicker this i have to pick it
+up and this is strictly old style guys
+couple of years ago it was cool having
+it like the back it's not like the
+fingerprint sensor is not responsive or
+something but uh it would have been
+better because most of the new modern
+phones are having it here and that
+that's quicker than they did with the
+moto g51 so that's slight net picking
+and the next thing is regarding the uh
+video that i got from the rear facing
+camera and for some reason i did not
+like the video quality that we were
+getting from the rear facing camera
+front facing camera video quality was
+fine but for some reason the video
+quality was not that good these
+generally happen with some mediatek
+smartphones the video quality
+is not that great but here also i did
+not like the video quality it is a quick
+sample of the video that i took with the
+rear facing camera now a quick sample
+with the red facing the camera uh
+shooting the video with the same and as
+you can see guys i'm just walking around
+audio is being captured via its internal
+microphone so this is a quick sample of
+the video with the rear facing camera
+and lastly guys it's regarding the
+update situation motorola team has said
+that this out of the box comes with
+android 11 not android 12. motorola team
+has said that android 12 update will
+come out to this one but we simply do
+not know when and also uh many of the
+other vendors are committing of for
+android updates for two or three years
+that there's nothing like that uh with
+motorola and generally what i've seen
+neutral smartphones are a little bit
+slow on the update so this is something
+that motorola needs to take into account
+considering the competition is faster
+and giving android updates so i hope
+they improve in the android uh updates
+situation
+so guys um this was my review of this
+moto g71 smartphone but still i would
+say this is a very very practical
+smartphone and certainly one of the best
+smartphones under 20 000 you don't get
+that bloatware or any junk on this uh
+smartphone so if you're that kind of a
+person that does not like bloatware and
+unnecessary stuff craftware that comes
+on your smartphone this is something and
+i completely forgot uh this also comes
+with the motorola think shield security
+so that way also it's good so overall
+it's a good phone now you're getting an
+amoled screen the processor is fast the
+battery life is fabulous so overall i
+would say a very practical
+smartphone and also the camera
+performance specifically the rear facing
+camera has improved quite a bit compared
+to older motorola phones so definitely i
+would say a very practical uh smartphone
+that you're getting uh with this moto
+g71 apart from some of the cons that i
+have mentioned anyways guys that's it
+for now for this review and if you guys
+are still not subscribed to this youtube
+channel hit that subscribe button
+anyways guys take care catch you later
+all right now when we talk about
+motorola smartphones under rupees 20 000
+the good parts are always stock android
+and a good pair of camera along with
+support for 5g but one thing that always
+stands out as a big con or a
+compromising factor is the fact that the
+design is always very lackluster or very
+boring well with the moto g71 motorola
+has connected that one part as well the
+moto g71 comes with a very attractive
+design a lot of features that are pretty
+good for the price but the big question
+still remains is it the best phone under
+rupees 20 000 for you well that's what
+this video is all about this is one from
+guiding tech and in today's video i'll
+be talking about the moto g71 in depth
+and we'll be seeing whether the g71 is
+the perfect phone for you or not
+okay so let's kick things off by talking
+about the design here now like i said
+the design is quite good here i wasn't
+expecting to be impressed by a motorola
+phone in terms of the design especially
+in this segment but as it turns out the
+phone is quite good the color is
+attractive and the phone is quite
+ergonomic as well
+and to be honest at 179 grams it isn't
+super heavy either
+now one more thing that i would like to
+highlight is that the curves here hide
+the fact that this is 8.5 mm thick so
+that's really good also you get the
+fingerprint scanner inside the motorola
+logo on the back now personally i don't
+mind it it's faster and far more
+reliable than in display ones anyway and
+my index finger just rests perfectly on
+this you also get a google button here
+which well similar to all other motorola
+phones is not customizable but unlike
+other motorola phones is at least far
+more reachable now
+you don't get any sort of gorilla glass
+protection or anything though the device
+itself is ip52 rated so that's good as
+for connectivity you do get dual sim
+slots but obviously there is no sd card
+slot here
+and the good thing here is that you do
+get a dedicated 3.5 headphone jack below
+so that's nice to see so yeah overall
+the moto g71 has a design that's
+functional looks good and quite
+ergonomic as well and honestly i kind of
+dig the design here alright so moving
+along let's talk about the display here
+which i feel is the biggest shortcoming
+of this one all right so reading off the
+spec sheet you get a 6.4 inch amoled
+panel and motorola phones are known for
+featuring some of the most color
+accurate panels out there and that's
+still the story here the panel itself is
+very good it's quite bright and it's
+very color accurate you also get wi-fi
+relevant certification here as well so
+netflix works fine and youtube also
+works well there's no support for hdr
+content here which feels like a bummer
+but other than that the panel is pretty
+good of course like i said it's amoled
+so you can use it outdoors as well
+without having to struggle with direct
+sunlight on this however the biggest
+problem with this thing is that it's
+capped at just 60 hertz see here's the
+thing i am okay with having a 60hz
+amoled panel
+if it's a budget device well by budget i
+mean under 15 000. like the moto g31 but
+when you're launching a phone for 19 000
+and you are offering just a 60hz refresh
+rate
+that feels kind of a bummer you have to
+respect the competition now i can kind
+of understand why it's still at 60 hertz
+which i will be talking about in the
+verdict of this video so make sure that
+you keep watching till the very end but
+yeah judging solely by the display
+segment the 60hz refresh rate definitely
+gives you an underwhelming feeling now
+aiding the display segment is the audio
+part here and on the moto g71 you get a
+mono speaker at the bottom
+i personally would have preferred stereo
+speakers here but thankfully the single
+speaker here does get loud enough so
+that's good for your entertainment needs
+there's also support for dolby atmos
+however which is especially good if
+you're going to be using wired
+headphones now next up let's talk about
+the camera here you get a 50mp primary
+sensor an 8mp ultrawide shooter and a
+2mp macro sensor while on the front side
+you get a 16mp sensor for selfies now
+overall that sounds like a decent
+package and in reality the shots are
+quite convincing the shots are nicely
+detailed and the colors are well in pure
+motorola fashion quite accurate you also
+get good hdr here now i won't deny the
+fact that it could use some improvement
+but it's definitely better than most of
+the competing smartphones out there the
+selfies also look pretty decent and even
+the low light performance is not bad
+here the only thing that i would like to
+stress on is once again the color
+reproduction here but if you like
+saturated shots then either you can do
+some post processing or go for some of
+the competing brands that will bring out
+saturated shots by default one thing
+that i just personally want to stress on
+is the camera ui here it's
+well motorola was offering a very good
+camera ui but recently the new ui is
+something that i really do not like it's
+very complicated and definitely takes a
+lot of time getting used to i mean if
+you look at other camera apps like the
+one that's there on color os that is
+quite easy to use and motorola could
+definitely learn a thing or two from
+that all right so next up we have the
+performance factor and the moto g71
+comes with the snapdragon 695 5g
+processor coupled with 128gb of umcp
+storage there are two things to
+highlight here first let's talk about
+the storage now umcp is what motorola
+claims to be as fast as your ufs 2.2
+storage and when i double checked with
+them about this they said see the
+storage speeds are the same the only
+reason why they are using ufc storage is
+because of the chip shortage factor so
+yeah basically you get ufs 2.2 speeds
+but in a different sort of naming
+convention is what they are calling it
+now in reality we did our testing and
+the speeds are more or less the same in
+fact you can even double check it with a
+storage speed tester and that app based
+on the storage speeds reads it as ufs so
+that's good to know so yeah on the
+storage front you are pretty much sorted
+as an end consumer next up is the
+processor and obviously a lot of people
+will say that a snapdragon 600 series
+processor for a 20 000 smartphone
+well once again the fault here is not
+with motorola but with qualcomm because
+their naming convention is absolutely
+the snapdragon 695 actually has a
+performance that's better than the
+snapdragon 765
+which was there on the original oneplus
+note and just slightly behind the
+snapdragon 768g which currently powers
+the iq z3
+now both of those devices had the adreno
+620 gpu so the moto g71 is just slightly
+behind with its adreno 690 but the
+performance is pretty good here and
+basically is what you would expect from
+a 19 000 phone now games like bgm and
+call of duty run at medium settings with
+no issues whatsoever there's no frame
+drops anywhere and no heating per se
+in fact even in a 15 minute cpu
+throttling test but the phone only
+throttles to 92 percent of its peak
+performance and that's nice to see
+next up we have the battery life here
+you get a 5000 mah battery with 33 watts
+of fast charging and it's nice to see
+that motorola has come at par with the
+competition in terms of the charging
+speeds i just wish they did it with the
+display as well but yeah i mean you get
+the point the 5000 image with the
+snapdragon 695 processor and amoled
+panel that if you're going to be using
+with dark mode on is basically a package
+that can easily last to 1.5 days of
+heavy usage and if you're a medium or
+light user then two days no issues
+whatsoever and when you want to charge
+it 33 volts fast charging is pretty good
+all right so before wrapping things up
+it's a motorola device review and this
+video will not be complete without
+talking about the software segment now i
+know there are fans of real me ui miui
+color os and all those different custom
+skins personally i am a fan of stock
+android i just love the cleanliness the
+neatness of the things it's just far
+more refined that way and obviously
+there is zero bloatware it's not like
+you have to uninstall things it's zero
+bloatware you also get zero ads here you
+the only factors here are the motorola
+actions that are pretty useful so that's
+nice to have and yeah i mean i
+personally do prefer that kind of a
+clean ui you also get things security
+which is as good if not better than
+samsung's knock security for android so
+that's also a security feature obviously
+you do miss out on a lot of
+customizability features that most
+custom skins offer but that's the kind
+of trade-off you have to have for
+well a more cleaner ui so yeah i am
+personally leaning towards stock android
+but if you like something else obviously
+there's a lot of competition out there
+so final verdict is the moto g71 the
+best phone under rupees 20 000
+well it's a tough call see right now you
+would say that the moto g71 has a direct
+competition with the redmi note 10 pro
+and the biggest standard factors between
+them is the display i mean sure there
+are other factors as well you have the
+design which is quite subjective then
+you have the camera performance which
+once again is subjective whether you
+like accurate colors or you like
+saturated windows the biggest stopping
+point will obviously be the display and
+the redmi note 10 pro easily wins the
+hands down with its 120 hertz super
+ambient panel the advantage that the
+moto g71 has is that it comes with
+support for 13 5g bands it's a proper
+global 5g phone while the redmi note 10
+pro is a 4g device so yeah that's
+basically a recurring theme here if
+you're looking for a 5g phone under
+specific budget then you'll have to
+compromise on certain things the moto
+g71 manages to check pretty much all of
+the boxes that you would demand from a
+good phone under rupees 20 000 the only
+compromise here is the display now
+obviously if that's a problem for you
+there are plenty of other devices to
+choose from and the redmi note 11 series
+will be launching pretty soon as well so
+you can stay tuned for that but if the
+high refresh it is not going to be a big
+con for you the moto g71 is an easy
+recommendation and well that was it now
+a lot of folks have been asking us to
+compare the moto g71 with the oneplus
+not ce as well and if you are one of
+those who would like to know about when
+that video goes live make sure to
+comment down below and subscribe to our
+channel for whenever that video goes
+live till then this is one from gtr and
+i'll see in the next one
+foreign
+[Music]
+[Applause]
+[Music]
+so
+[Music]
+so
+[Music]
+[Applause]
+[Music]
+[Applause]
+[Music]
+[Music]
+you
+[Music]
+you
+[Music]
+
+
+
+
+Moto G 5G (2024) Review: Close to Being a Great $200 Phone - CNET
+
+
+                                                                                                                                                                                                                                               X    Your GuideTo a Better Future           
+                  Trending
+                   
+                  AI
+                   
+                  Tech
+                   
+                    VPN
+                     
+                    Streaming Services
+                     
+                    Mobile
+                     
+                    Home Entertainment
+                     
+                    Computing
+                     
+                    Services & Software
+                     
+                    Gaming
+                      
+                  All Tech
+                   
+                  Money
+                   
+                    Banking
+                     
+                    Credit Cards
+                     
+                    Mortgages
+                     
+                    Home Equity
+                     
+                    Taxes
+                      
+                  All Money
+                   
+                  Home
+                   
+                    Energy
+                     
+                    Electric Vehicles
+                     
+                    Home Security
+                     
+                    Smart Home
+                     
+                    Kitchen & Household
+                     
+                    Yard & Outdoors
+                      
+                  All Home
+                   
+                  Wellness
+                   
+                    Sleep
+                     
+                    Nutrition
+                     
+                    Fitness
+                     
+                    Personal Care
+                      
+                  All Wellness
+                   
+                  Home Internet
+                   
+                    Broadband
+                     
+                    By Location
+                     
+                    Internet Routers
+                      
+                  All Home Internet
+                   
+                  Deals
+                   
+                    Tech
+                     
+                    Home
+                     
+                    Wellness
+                     
+                    Coupons
+                     
+                    Gift Guides
+                      
+                  All Deals
+                   
+                  100 Days of Holiday
+                   
+                  Cover Stories
+                   
+                  More
+                   
+                    Video
+                     
+                    Price Finder
+                     
+                    Editors' Choice
+                     
+                    CNET Voices
+                      
+                  All More
+                      
+        Back
+                        Tech Mobile  
+        Article updated on March 21, 2024 at 6:00 AM PDT     
+      Moto G 5G (2024) Review: Close to Being a Great $200 Phone
+         
+    The Moto G 5G has everything I want on a $200 phone, but a few key features hold it back.
+      
+    Our Experts
+      Written by   
+              Mike Sorrentino
+                 Our expert, award-winning staff selects the products we cover and rigorously researches and tests our top picks. If you buy through our links, we may get a commission. 
+      Reviews ethics statement
+             Mike Sorrentino Senior Editor Mike Sorrentino is a Senior Editor for Mobile, covering phones, texting apps and smartwatches -- obsessing about how we can make the most of them. Mike also keeps an eye out on the movie and toy industry, and outside of work enjoys biking and pizza making. Expertise Phones |Texting apps | iOS | Android | Smartwatches | Fitness trackers | Mobile accessories | Gaming phones | Budget phones | Toys | Star Wars | Marvel | Power Rangers | DC | Mobile accessibility | iMessage | WhatsApp | Signal | RCS   See full bio   
+          Why You Can Trust CNET
+         
+  16171819202122232425+ Years of Experience 14151617181920212223 Hands-on Product Reviewers 6,0007,0008,0009,00010,00011,00012,00013,00014,00015,000 Sq. Feet of Lab Space 
+          How we test
+            CNET’s expert staff reviews and rates dozens of new products and services each month, building on more than a quarter century of expertise.Table of Contents 
+  
+   
+      Moto G 5G (2024) Review: Close to Being a Great $200 Phone
+     
+      Moto G 5G design and display
+     
+      Moto G battery, performance and software
+     
+      Moto G 5G cameras
+     
+      Moto G 5G bottom line
+     
+      Moto G 5G (2024) vs. Moto G Power 5G (2024), Samsung Galaxy A14 5G
+     
+      How we test phones
+              
+            6.5/ 10   SCORE Moto G 5G (2024)        Pros
+       
+          Vegan leather design 
+        
+          NFC functionality 
+        
+          Decent cameras
+           Cons
+       
+          Slow performance 
+        
+          Dull screen 
+        
+          Only one software update planned
+        Table of Contents 
+  
+   
+      Moto G 5G (2024) Review: Close to Being a Great $200 Phone
+     
+      Moto G 5G design and display
+     
+      Moto G battery, performance and software
+     
+      Moto G 5G cameras
+     
+      Moto G 5G bottom line
+     
+      Moto G 5G (2024) vs. Moto G Power 5G (2024), Samsung Galaxy A14 5G
+     
+      How we test phones
+     Motorola's new Moto G 5G is agonizingly close to being the right option for someone looking for a $200 phone.This year the Moto G 5G comes with refreshed design as well as NFC for contactless payments, and largely sticks to the features of its predecessor, the $250 Moto G 5G. Among the most notable features it inherits from the 2023 version is a 120Hz refresh rate, making it one of the first sub-$200 phones to provide super smooth screen animations. Plus, it takes decent photos for a phone of its price. The new phone arrives alongside the $300 Moto G Power 5G for 2024.But as a daily device, this phone is noticeably underpowered. It does indeed run all the apps I need and can support my usual multitasking routine of listening to music while texting or reading. But it's painfully obvious that the 4GB of included RAM is stretched to its limit, leading to multiple instances of reloading when switching between apps like Messenger, Microsoft Bing and a game.      The 6.6-inch display on the Moto G 5G runs at a 720p resolution with a 120Hz refresh rate. Mike Sorrentino/CNETMotorola hasn't budged on its software update policy for Moto G phones. It promises just one major update to the Moto G 5G and three years of security updates. Even though this type of policy is normal for this price range, it's quickly becoming outdated now that Samsung and Google offer high-end phones seven years of updates. This has trickled down to Samsung's $200 Galaxy A15, which is getting four years of software updates and five years of security updates.Overall, I can recommend the Moto 5G for those who just want basic functionality at a cheap price. But you'll get significantly better performance by paying a bit more. 
+    Moto G Power 5G Looks Good in Vegan 'Leather' and Lilac
+            
+        +9 More
+       See all photos  Moto G 5G design and displayThe Moto G 5G has a more refined design compared to last year's model thanks to its vegan leather back cover and a sage green color. It's notably more comfortable than the slippery plastic build that's more common on $200 phones. Motorola says the design is "water-repellent," which in this case means it can handle light spills or rain but isn't designed for water submersion.A combined SIM card and microSD card slot can be found on the side of the phone, along with a volume rocker and power button that doubles as a fingerprint sensor. There's also a headphone jack, making the Moto G 5G one of the few devices you can still plug your headphones into. The Moto G 5G's stereo speakers get quite loud, and there's a Dolby Atmos app for enabling spatial audio and toggling equalizer settings for movies, music, podcast, gaming and creating a custom mode. I enjoyed listening to music with the phone's speakers, but I wouldn't say they were dynamic enough to provide much emphasis to a song's bass line. Yet it's a clear step above other comparably priced phones that only include a single speaker.      The Dolby Atmos app lets you swap between different equalizer settings along with spatial audio. Mike Sorrentino/CNETThe phone has a 6.6-inch 720p display, which includes the aforementioned 120Hz refresh rate. Those smooth animations are noticeable and helpful when scrolling through webpages and playing games, but the low-resolution screen can't display a broad range of colors for HDR content. Videos and games look fine, but the more muted colors make it clear that Motorola compromised on the display to maintain the Moto G's low price. While that's not unheard of in this price range, rival TCL includes limited HDR settings on its sub-$200 phones through its NxtVision mode. It would be nice to see Motorola create a similar setting. The phone does however, let you choose between "Natural" and "Saturated" display settings for a slight vividness.      The Moto G 5G's display feels muted. Mike Sorrentino/CNETMoto G battery, performance and softwareThe Moto G 5G has excellent battery life, even if that's now fairly standard across phones in this price range. The phone's 5,000-mAh battery easily lasts for a day and a half. On a day when I clocked three hours of screen time, I still had 54% of my battery left by bedtime. I managed to get roughly four hours the next day before it died. However, recharging that battery takes time. While the Moto G's 18-watt charging replenished the phone quickly when the device was turned off (0% to 36% in 30 minutes), it slowed down significantly when I charged the phone while it was powered on. Following that charging test, it took an additional two hours to get the phone to 94%. Motorola also doesn't include a charger in the box for the unlocked model, but certain carriers will bundle a 10-watt charger.The Moto G 5G ships with Android 14. Even though it will get only one update to the next edition of Android, Motorola provides a largely clean operating system with some optional extras. That includes Moto Gestures, which lets you twist to open the camera and chop to use the flashlight. Just like the iPhone, there's a double tap feature that makes it possible to perform an action by tapping the back of the phone.       The Moto G 5G allows you to dip into the internal storage to increase the memory on the phone. It's a helpful feature but I wouldn't say it provides a similar experience to a phone with 8GB of memory. Mike Sorrentino/CNETEven though the operating system itself isn't messed with by Motorola, the phone does come preinstalled with third-party apps and widgets that I do find to intrude on using the phone the way I wanted to. Luckily, you can uninstall or opt out of many of these apps and widgets. But it took several days before I realized I had to remove certain widgets to stop some unwanted notifications. This feels like a bigger problem than usual because cheaper devices like the Moto G are likely being purchased by people hoping for a simpler phone experience.As I mentioned earlier, the Moto G 5G is sluggish when it comes to performance. Even though Motorola includes a RAM boost feature that doubles its onboard memory to an experience more akin to 8GB, this device isn't great at multitasking beyond listening to music while texting and reading. RAM boost is turned on by default, starting with a "6GB"-like experience by dipping slightly into the phone's onboard storage. When I ramped it up to "8GB" it took an additional gigabyte of space, which is well worth it even if the gains are only slight. Storage isn't an issue thanks to the roomy 128GB of space -- up from the 64GB of last year's $200 Moto G Stylus while matching last year's Moto G 5G -- with the option to expand up to 1TB with a microSD card.In a performance benchmark test called Geekbench 6, the phone performed better than last year's Moto G 5G and the Samsung Galaxy A14, likely thanks to its Qualcomm Snapdragon 4 Gen 1 processor. It also scored substantially higher than last year's $200 Motorola phone, the Moto G Stylus. But the phone compared similarly to last year's Moto G 5G on the graphically intense 3DMark Wild Life Extreme benchmark. We haven't tested Samsung's $200 Galaxy A15 yet, but we will be comparing the two when we get the chance to run that rival budget phone through our review process.      The Moto G 5G's camera system includes a 50-megapixel main lens and a 2-megapixel macro lens. Mike Sorrentino/CNETMoto G 5G camerasThe cameras take good photos, and that's a major plus for anyone considering this phone. During my week of testing, I shot a sunset at New York's Long Island Railroad station in Jamaica, Queens, food photos at the Wegmans grocery store in Astor Place and a little bit of nighttime photography at the Queensboro Plaza subway station.      A sunset photo taken on the Moto G 5G at the Jamaica, Queens station in New York. Mike Sorrentino/CNET      The Queensboro Plaza subway station taken at night. Mike Sorrentino/CNETA consistent theme I found across many photos, whether taken by that 50-megapixel main camera or the 8-megapixel front-facing camera, is they have great color accuracy but low detail.      Apples at the Wegmans grocery store taken on the Moto G 5G. Mike Sorrentino/CNET      Shrimp cocktail taken on the Moto G 5G. Mike Sorrentino/CNET      A photo taken on the front-facing camera of the Moto G 5G. Mike Sorrentino/CNETA set of apples at the grocery store shows clearly defined shades of red reflecting the different types of apples, for example. You can see the the flecks of spices on the premade shrimp cocktails I photographed at Wegmans. A quick selfie I took in Astor Place on a cloudy day focused well on my face and has some details of my skin.      The entrance to Wegmans taken at 3x zoom. Mike Sorrentino/CNET      A night mode photo taken in a dark storage area in CNET's office. Mike Sorrentino/CNETBut if you really zoom in on these photos, things get blurry. My 3x zoom photos of the entrance of Wegmans have artifacting, as does the night mode photo I took of a dark storage room at CNET's office.The phone also includes a 2-megapixel macro lens meant for close up photos, but these images just don't provide enough detail to make the effort worth it.      The 2-megapixel macro lens is meant for closeup photography, but you can see the blurriness. Mike Sorrentino/CNETThese photos compare favorably to the Galaxy A14 5G, making the Moto G 5G perform averagely for the price range.       The grass wall at CNET's office taken on the Moto G 5G. Mike Sorrentino/CNET      The Samsung Galaxy A14 5G's depiction of the grass wall in CNET's office. Mike Sorrentino/CNETAs long as you mostly take simple photos without much of a zoom, you'll probably be satisfied with the Moto G 5G's camera. Video on the other hand, with a 720p resolution and a frame rate of just 30 frames per second, isn't suitable for much more than a quick casual video of your cat.      Contactless payments are available via the Moto G 5G. Mike Sorrentino/CNETMoto G 5G bottom lineThe Moto G 5G checks a lot of boxes that I find compelling on a $200 phone. For instance, it's great to see Motorola follow in Samsung's lead after it brought NFC to the Galaxy A14. I'm also glad Motorola broke from the trend of plastic backs on cheaper phones by bringing a vegan leather material down to the Moto G 5G. The cameras take nice photos -- as long as you aren't trying to zoom -- which makes it a very functionable option.But just remember the phone's performance will be limited by its memory. My advice? Turn on RAM boost right away to get the best experience. Otherwise, the phone should provide just enough performance for common tasks like texting, reading and listening to music. It's that performance limitation along with the short software update policy that makes the Moto G 5G difficult to recommend wholeheartedly. That said, the Moto G 5G shows Motorola can continue to improve its budget phones while simultaneously reducing the price. The Moto G 5G comes closer than ever to being a $200 phone I can strongly endorse, but it's not quite there yet. Moto G 5G (2024) vs. Moto G Power 5G (2024), Samsung Galaxy A14 5G  Moto G 5G (2024)Moto G Power 5G (2024)Samsung Galaxy A14 5G Display size, resolution, refresh rate 6.6-inch LCD; 1,612x720 pixels, 120Hz6.7-inch LCD; 2,400x1,080 pixels, 120Hz6.6-inch LCD; 1,400x1,080 pixels; 90HzPixel density 269 ppi391 ppi268 ppiDimensions (inches) 6.5 x 3 x 0.3 in.6.6 x 3 x 0.3 in.6.6 x 3.07 x 0.36 inDimensions (millimeters) 164.4 x 75 x 8.2mm167.2 x 76.4 x 8.5mm167.6 x 77.9 x 9.1 mmWeight (ounces, grams) 194g201g203 g (7.19 oz)Mobile software Android 14Android 14Android 13Cameras 50-megapixel (main), 2-megapixel (macro)50-megapixel (main), 8-megapixel (ultrawide)50-megapixel (main), 2-megapixel (macro), 2-megapixel (depth)Front-facing camera 8-megapixel16-megapixel13-megapixelVideo capture 1080p, 30fps1080p, 60fps1080p at 30fpsProcessor Qualcomm Snapdragon 4 Gen 1Mediatek Dimensity 7020MediaTek MT6833VRAM/Storage 4GB + 128GB8GB + 128GB4GB + 64GBExpandable storage Yes, microSDYes, microSDYes, microSDBattery/Charger 5,000 mAh5,000 mAh5,000 mAhFingerprint sensor YesYesSideConnector USB-CUSB-CUSB-CHeadphone jack YesYesYesSpecial features 18W wired charging, Dolby Atmos, NFC, water repellent, gesture controls, Moto Secure, RAM Boost30W wired charging, 15W wireless charging, Dolby Atmos, NFC, water repellent, gesture controls, Moto Secure, RAM Boost5G-enabled, NFC, 15W chargingPrice off-contract (USD) $200$300$200Price (GBP) N/AN/A£179Price (AUD) N/AN/AAU$379    How we test phonesEvery phone tested by CNET's reviews team was actually used in the real world. We test a phone's features, play games and take photos. We examine the display to see if it's bright, sharp and vibrant. We analyze the design and build to see how it is to hold and whether it has an IP-rating for water-resistance. We push the processor's performance to the extremes, using standardized benchmark tools like GeekBench and 3DMark as well as our own anecdotal observations navigating the interface, recording high-resolution videos and playing graphically intense games at high refresh rates.All the cameras are tested in a variety of conditions, from bright sunlight to dark indoor scenes. We try out special features like night mode and portrait mode and compare our findings against similarly priced competing phones. We also check out the battery life by using the phone daily as well as running a series of battery drain tests.We take into account additional features, like support for 5G; satellite connectivity; fingerprint and face sensors; stylus support; fast charging speeds; and foldable displays, among others that can be useful. And we balance all this against the price to give you the verdict on whether that phone, whatever price it is, actually represents good value. Though these tests may not always be reflected in CNET's initial review, we conduct follow-up and long-term testing in most circumstances.    
+    Mobile Guides
+   
+      Phones
+     
+  
+          Best iPhone
+        
+          Best Galaxy S24 Deals
+        
+          Best Phone
+        
+          Best iPhone Deals
+        
+          Samsung Galaxy S24 Review
+        
+          Best Android Phones
+        
+          Best Samsung Galaxy Phone
+        
+          Pixel 8 Pro Review
+        
+          iPhone 15 Pro/Pro Max Review
+        
+          Best iPhone 15 Deals
+        
+      Foldable Phones
+     
+  
+          Best Foldable Phones
+        
+          Galaxy Z Fold 5 Review
+        
+          OnePlus Open Review
+        
+          Best Galaxy Z Flip Deals
+        
+      Headphones
+     
+  
+          Best Wireless Earbuds
+        
+          Best Noise Canceling Headphones
+        
+          Best Headphones
+        
+          Best Over Ear Headphones
+        
+          Best Wireless Earbuds and Headphones for Making Calls
+        
+          Best Headphones for Work at Home
+        
+          Best Noise Canceling Wireless Earbuds
+        
+          Best Sounding Wireless Earbuds
+        
+          Best Cheap Wireless Earbuds
+        
+          Best Wireless Headphones
+        
+      Mobile Accessories
+     
+  
+          Best iPhone 15 Cases
+        
+          Best iPhone 14 Cases
+        
+          Best Power Bank for iPhone
+        
+          Best Airpods Pro Accessories
+        
+          Best Magsafe iPhone Accessories
+        
+          Best Speakerphone
+        
+          Best Wireless Car Charger and Mount
+        
+          Best iPhone Fast Charger
+        
+          Best Portable Chargers and Power Banks for Android
+        
+      Smartwatches
+     
+  
+          Apple Watch Series 8 vs Series 7
+        
+          Best Apple Watch Bands
+        
+          Best Android Smartwatch
+        
+          Apple Watch Ultra Review
+        
+          Best Smartwatch
+        
+      Wireless Plans
+     
+  
+          Best Prepaid Phone Plans
+        
+          Best Cheap Phone Plans
+        
+          Best Unlimited Data Plans
+        
+          Best Phone Plans
+        
+          Best Phone Plan Deals
+        
+          Best Senior Phone Plans
+        
+          Best Family Phone Plans
+        
+          Best Travel Phone Plans
+        
+          Best Verizon Plans
+                       Your guideto a better future DealsReviewsBest ProductsGift GuideCouponsVideosSoftware Downloads About CNET Press Room Newsletters Licensing Sitemap Careers Help Center Accessibility Cookie Settings Privacy Policy  Terms of Use Do Not Sell or Share My Personal Information instagram youtube tiktok facebook x flipboard  US France Germany Japan Korea 
+  © 2024 CNET, a Ziff Davis company.
+  All rights reserved.
+   
+
+
+
+
+
+
+
+
+
+Moto G 5G (2024) review: The best phone under $200 | Tom's Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+Open menu
+Close menu
+
+
+
+
+Tom's Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tom's Guide 
+
+
+
+
+Search
+
+ 
+
+
+Search Tom's Guide
+
+
+
+ 
+
+
+
+Subscribe
+
+
+
+RSS
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+US EditionAustraliaUKUSCanada
+
+
+
+
+
+
+
+
+
+
+
+
+Best Picks 
+
+
+
+
+Phones
+
+
+
+
+Streaming
+
+
+
+
+TVs
+
+
+
+
+Computing
+
+
+
+
+AI
+
+
+
+
+Mattresses
+
+
+
+
+Videos
+
+
+
+More
+
+
+
+Fitness
+
+
+News
+
+
+Reviews
+
+
+How Tos
+
+
+Home
+
+
+Deals
+
+
+VPNs
+
+
+Antivirus
+
+
+Coupons
+
+
+Entertainment
+
+
+Smart Home
+
+
+Wellness
+
+
+Security
+
+
+Laptops
+
+
+Gaming
+
+
+Audio
+
+
+
+
+
+
+Forums
+
+
+
+ 
+
+
+Technology MagazinesWhy subscribe?The best tech tutorials and in-depth reviewsTry a single issue or save on a subscriptionIssues delivered straight to your door or device From$12.99View
+
+
+
+
+ 
+
+
+TrendingiOS 18.1Apple Intelligence Early Black Friday Deals iPhone 16Wordle Today Best TVs Best laptops
+
+
+
+
+
+
+
+
+
+
+
+Phones
+
+
+Android Phones
+
+
+Motorola Phones
+
+
+
+
+
+Moto G 5G (2024) review: The best phone under $200
+There's value to be found if you're willing to compromise
+
+
+
+ 
+ 
+ 
+
+
+Reviews
+By Philip Michaels published 25 April 2024 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Comments (0)
+
+
+
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Image: © Future)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tom's Guide Verdict
+
+
+ 
+ 
+ 
+
+
+
+It's hard to find a phone as inexpensive as the $199 Moto G 5G (2024). And while you'll need to excuse some performance hiccups and a dull screen, you'll appreciate the phone's long-lasting battery and stylish-for-its-price design. 
+
+
+Pros
+
+
++Long-lasting battery
++Super-low price
++Vegan leather materials
+
+
+
+
+Cons
+
+
+-Only one guaranteed software update
+-Underwhelming performance
+-Dim screen
+
+
+
+Why you can trust Tom's Guide 
+
+
+Our writers and editors spend hours analyzing and reviewing products, services, and apps to help find what's best for you. Find out more about how we test, analyze, and rate.
+
+
+
+Jump to:
+
+
+
+Specs
+
+
+
+
+Price
+
+
+
+
+Design
+
+
+
+
+Display
+
+
+
+
+Cameras
+
+
+
+
+Performance
+
+
+
+
+Battery life
+
+
+
+
+Software
+
+
+
+
+Verdict
+
+
+
+
+
+
+
+
+The Moto G 5G (2024) may have the most puzzling name of any phone I've ever reviewed. Of all the distinguishing features to call out with your phone's moniker, why focus on 5G connectivity — something nearly every phone offers nowadays? It's like saying "our phones can send and receive phone calls."It's an even more puzzling name given that there's plenty of other highlights to the Moto G 5G, starting with its dirt-cheap price. The Moto G 5G can be yours for less than $200, and while that price necessitates some corner-cutting, you also get a big display, a surprisingly stylish design and very impressive battery life.Do those considerable strengths make the Moto G 5G (2024) a sleeper hit when it comes to delivering a lot value for a comparatively little amount of money? Or are the compromises made to keep costs down too substantial to overlook? That's what this Moto G 5G (2024) review aims to find out.Moto G 5G (2024) review: SpecificationsSwipe to scroll horizontallyStarting price$199Screen size6.6-inch LCD (1612 x 720)Display refresh rate120HzCPUSnapdragon 4 Gen 1RAM4GBStorage128GBmicroSD?Yes, up to 1TBRear cameras50MP (f/1.8) main; 2MP (f/2.4) macroFront camera8MP (f/2.0)Battery size5,000 mAhBattery life (Hrs:Mins)14:36Charging speed18W wiredSize6.5 x 3 x 0.32 inches (164.39 x 74.96 x 8.23mm)Weight6.8 ounces (194 grams)ColorsSage GreenMoto G 5G (2024) review: Price and availabilityThe Moto G 5G is available for $199, and you can currently pick up the phone at T-Mobile and Metro by T-Mobile. Other carriers — including AT&T, Verizon, Cricket, Visible, Google Fi, Xfinity Mobile, Consumer Cellular and more — will add the Moto G 5G later on. If you prefer to pick up the phone unlocked, Amazon and Best Buy will start offering it on May 2.As far as smartphone pricing goes, $199 is very cheap. The OnePlus Nord N30 — our top pick as the best cheap phone under $300 — costs $100 more than the Moto G 5G. The Galaxy A15, Samsung's budget phone, costs $199 as well.Moto G 5G (2024): free w/trade-in @ T-Mobile
+Why spend a fortune when you just need a phone for the basic stuff? The Moto G 5G (2024) does have one of the lowest prices on a new Android phone, but it doesn't necessarily mean it's filled with compromises. It actually has a long battery life.View DealMoto G 5G (2024) review: Design(Image credit: Future)Cheap phones usually mean cheap designs, but the Moto G 5G (2024) bucks that trend. While no one will confuse Motorola's phone with the latest iPhone, you also aren't getting a hastily assembled phone housed in the flimsiest plastic that will fall apart the minute a stiff breeze hits it.Instead, the Moto G 5G features a vegan leather back that makes the phone easier to grip; it also doesn't pick up finger prints and smudges the way a cheap plastic back might. Even the rear camera array blends subtly into the back of the phone instead of jutting out.Motorola says the Moto G 5G can withstand spills and splashes, but don't expect the phone to survive a dunk in water. You will find a headphone jack on the bottom of the device, as a throwback to a time when all phones offered that feature.(Image credit: Future)The power button on the right side of the phone doubles as the fingerprint sensor for unlocking the Moto G 5G. In my testing, I found it fairly responsive, and I actually prefer this approach to under-display sensors which can be more temperamental in my experience.There's just one color for the Moto G 5G (2024), which Motorola calls Sage Green. It looks more gray to my eye, but whatever you call it, the drab color certainly won't turn heads.Moto G 5G (2024) review: Display(Image credit: Future)Motorola doesn't skimp on screen size with the Moto G 5G (2024) opting for a 6.6-inch panel. It's not quite an edge-to-edge display — there's an especially prominent bezel at the bottom of the phone. But you still have more than enough space for playing games and watching videos.Even better, Motorola recognizes that fast-refreshing displays belong on mobile devices, whether they're pricey or not. The Moto G 5G can adjust between 60Hz and 120Hz for times when you'll benefit from smoother scrolling and more immersive graphics.Budget phones have to scale back somewhere, though, and for the Moto G 5G that means using an LCD panel instead of an OLED. Blacker colors won't be as rich on the Moto G 5G's panel, as I learned when streaming The Holdovers on the phone, as the scene shifted to night. Swipe to scroll horizontallyRow 0 - Cell 0 Moto G 5G (2024)OnePlus Nord N30Google Pixel 7aSDR Brightness (nits)531520927sRGB %103.2 (Saturated), 108.5 (Natural)152.7129.8 (Adaptive), 111.7 (Natural)DCI-P373.1 (Saturated), 76.8 (Natural)108.391.9 (Adaptive), 79.1 (Natural)Delta-E rating0.23 (Saturated),0.23 (Natural)0.0090.05 (Adaptive), 0.11 (Natural)Our display testing results back up the relative lack of colors on the Moto G 5G's screen, which recreated 108.5% of the sRGB color spectrum and 76.8% of the more demanding DCI-P3 spectrum. The OnePlus Nord N30, another LCD-equipped phone, turned in percentages of 152.7% and 108.2% on the same respective spectrums. The Nord's colors were more accurate, too, with a better Delta-E score. (The closer to zero, the more accurate the colors.)I don't want to give the impression that watching videos on the Moto G 5G is unbearable. The display managed to recreate the worn '70s film-stock look used in The Holdovers, and The Fall Guy trailer streamed on YouTube was plenty colorful. Also, Dolby Atmos support on the Moto G 5G means you'll hear everything loud and clear. But the Moto G 5G's budget origins really come across here.(Image credit: Future)This is also a fairly dim display, with the Moto G 5G recording a reading of 531 nits in SDR. The Pixel 7a, an admittedly more expensive phone, measured 927 nits in similar conditions. You can see the Moto G 5G screen in direct sunlight, but you'll need to push that display brightness slider upward.Moto G 5G (2024) review: Cameras(Image credit: Future)The Moto G 5G's camera setup is about as basic as it comes — a 50MP main camera is joined by a 2MP macro lens. An ultrawide camera, included on many cheap phones, is missing in action here. Up front, an 8MP shooter is there for your selfie needs.I'm less concerned with camera specs on a budget phone and more interested in seeing what kind of images those cameras produce. For reference I took some pictures with the Moto G 5G to compare to similar shots from the Google Pixel 7a, which is currently the best camera phone for less than $500. I wouldn't have expected a sub-$200 phone to challenge the Pixel 7a, but it is a good yardstick to see what kind of photos you can expect from the cheaper phone.The Moto G 5G starts off well at this fruit stand. Yes, the Pixel 7a does a better job highlighting details like the stripes on those watermelons, while the textures of cantaloupe rind are also far more visible. Finer details get washed in the Motorola picture, but at least the colors are all there in a pretty bright, vibrant shot.Likewise, there's nothing really separating the different photos of San Francisco's top eatery.  You could argue that the clouds don't appear as flat in the Pixel 7a shot, and the sign stands out a little bit more against the gray sky. But you really have to drill down to find ways that the Pixel 7a shot is better than what the Moto G produces here. Motorola more than holds its own.The Cupid's Span sculpture offers one other photo where the Moto G 5G keeps pace with the Pixel 7a. Because Google's phone tends to emphasize darker colors, its photo took on a more blue cast on the rainy day I went out and shot photos. Motorola's phone goes brighter — some might argue too bright, given that the lawn in front of the sculpture is dangerously close to being over-saturated. But I like the patches of blue in the sky that the Moto G teased out, and the red of the arrow and yellow of the bow are a bit more true-to-life.So far, our only really complaint with the Moto G's cameras has centered around their tendency not to call out smaller details. That's on full effect here outside the Oracle Park left field gate, and it proves to be a fatal flaw for Motorola's phone.You can't easily make out the lettering at the top of the gate the way that it's crisply detailed by the Pixel 7a. The brickwork looks too glossy in the Motorola photo as well.I have mixed feelings about this portrait shot of my daughter by the Moto G 5G. On the one hand, there's not much of a background blur, and the phone seemed to have a hard time separating my daughter from the background, particularly around her hair. But her skin tone is much better in the Motorola shot, as the Pixel 7a has left her looking unhealthily pale. Her reddish hair and freckles also come through more clearly in the Moto G 5G shot.For low-light and night photos, the Moto G is overmatched. A close-up of a skeleton holding party balloons in my basement looks like a dark, murky mess. You can't even make out the Hawaiian shirt I hung in the frame to see how the Moto G 5G handles colors in the dark. (My answer: Not very well.) Everything's clear and visible in the Pixel 7a shot, with the skeleton's head perfectly illuminated.(Image credit: Future)As noted, the Moto G 5G replaces the usual ultrawide lens found on most camera phones with a dedicated macros lens. If the results look like this close-up of the impatiens growing in my backyard, I suppose that's a fair trade-off, as the Moto G produced a clean, focused shot that captures plenty of detail on the flower. Unless you find yourself routinely jumping into macro mode, though, I don't feel like this lens is going to sway you one way or the other about the Moto G 5G (2024).Finally, the 8MP front camera on the Moto G 5G does a credible job with this selfie, giving me a warm skin tone even if it does get a little over-aggressive with smoothing out the texture of my face. The Pixel 7a once again skews a little bit more toward the pale side of things (though not as severely as it did in portrait mode).All told, I wouldn't rank the Moto G 5G among the best camera phones out there, but it performs well for a handheld at this price. The photos it produces have enough quality to where you wouldn't mind posting them on a site like Instagram even if you're not necessarily going to want to frame the results.Moto G 5G (2024) review: Performance(Image credit: Future)You don't buy a budget phone expecting blazing performance, and in that sense, the Moto G 5G doesn't disappoint. The phone features a Snapdragon 4 Gen 1 system-on-chip — an older chipset which provides the titular 5G connectivity but not the kind of pep you get from Qualcomm's more advance silicon.Swipe to scroll horizontallyRow 0 - Cell 0 Moto G 5G (2024)OnePlus Nord N30Google Pixel 7aProcessorSnapdragon 4 Gen 1Snapdragon 695Tensor G2Geekbench 6 (Single/Multicore)841 / 1,791904 / 2,0771,401 / 3,3683DMark Wild Life Unlimited (FPS)6.27.241.1On Geekbench 6, the Moto G (2024) posted single- and multicore scores of 841 and 1,791, respectively. Both results trailed the OnePlus Nord N30, which runs on a Snapdragon 695. The Pixel 7a far outpaced both phones with respective scores of 1,401 and 3,368, and its Tensor G2 chipset is not exactly known as a speed demon.Results of graphics tests were also not terribly encouraging. On 3DMark's Wild Life Unlimited, the Moto G 5G hit 6.2 frames per second, which was in the same ballpark as the OnePlus Nord N30's 7.3 fps result. To put that result in context, though, note that the midrange Pixel 7a hit 41.1 fps on the same test.I was able to play PUBG Mobile on the Moto G 5G, though with a few more hiccups than I'm used to. The phone can handle most apps the average user will throw at it. But graphically intense games are going to test this device.You get 128GB of storage with the Moto G 5G, which is good to see in a world where some low-cost phones still pretend that 64GB is an adequate amount of storage. There's a microSD slot on Motorola's phone, so you can add up to 1TB of capacity if you need to.Moto G 5G (2024) review: Battery life and charging(Image credit: Future)The Moto G series typically packs in big batteries that last a long time on a charge, and I'm happy to discover that the Moto G 5G (2024) doesn't stray from that script. With the help of a 5,000 mAh battery, the Moto G 5G lasted an average of 14 hours and 36 minutes on our battery test, in which phones are left to surf the web continuously until they run out of power.An average smartphone lasts around 10 hours on our test, so the Moto G 5G's time is very impressive. It's the least expensive phone to land a spot on our best phone battery life list.Swipe to scroll horizontallyRow 0 - Cell 0 Moto G 5G (2024)OnePlus Nord N30Google Pixel 7aBattery life (Hrs:Mins)14:3612:4210:05 (60Hz)% Charge (15 minutes)18%16%21%% Charge (30 minutes)38%33%43%We recorded that 14.5-hour time with the Moto G 5G's display set to an automatic refresh rate, which can ramp things up to 120Hz when there's a lot of on-screen activity. Locking the refresh rate at 120Hz dropped the Moto G 5G's battery test time to 12 hours and 23 minutes, so our advice is to stick with that auto setting if you want better battery life from this phone.You can expect 18W wired charging from the Moto G 5G (2024). (Forget about wireless charging on a phone this cheap.) Our review unit came with a charging cable but no charger — Motorola says that some carriers will include a 10W charger with the phone. Regardless, when we charged our drained Moto G 5G, the phone got back to a 38% charge — a so-so result.Moto G 5G (2024) review: Software(Image credit: Future)I have no complaints with Motorola's My UX interface, which runs on top of Android 14. It offers plenty of ways to customize the look of the Moto G 5G, and I appreciate the helpful gestures that let you do things like turn on the phone's flashlight, take a screenshot or launch the camera app.I'm a bit more miffed by all the bloatware that comes pre-installed on the Moto G 5G. Besides a folder of Motorola apps, my review unit also came with assorted T-Mobile apps, along with preinstalled versions of Booking.com, Amazon Shopping, LinkedIn, Temu, Yelp and a couple of games. It's a lot to sort through.Even more regrettable is Motorola's update policy for its budget phones. You can expect a single Android update for the Moto G 5G (2024), meaning that once Android 15 shows up on your phone, that's it. You will get three years of security support from Motorola. While Motorola is hardly the only phone maker to limit the support given to lower-cost Android phones, it's still something to keep in mind when weighing a purchase.Moto G 5G (2024) review: VerdictWhen evaluating the Moto G 5G (2024), you can take one of two tacks — you can focus on what this budget phone can't do or you can appreciate what it manages to offer while keeping its starting price at $200. I lean toward the latter.No, the phone has some performance hiccups and it's not going to wow anyone with the photos it produces. I also wish the screen were a bit brighter. But for someone with a limited budget, the Moto G 5G does exactly the things you need it to, while also surprising with its long battery life and pleasing design.The only real note of caution I would have is about the limited update policy, which may prevent you from holding on to the Moto G 5G for more than a couple years. But other than that, the phone delivers good value for its price, which will satisfy budget-minded shoppers.
+
+
+Philip MichaelsSocial Links NavigationPhilip Michaels is a Managing Editor at Tom's Guide. He's been covering personal technology since 1999 and was in the building when Steve Jobs showed off the iPhone for the first time. He's been evaluating smartphones since that first iPhone debuted in 2007, and he's been following phone carriers and smartphone plans since 2015. He has strong opinions about Apple, the Oakland Athletics, old movies and proper butchery techniques. Follow him at @PhilipMichaels.
+
+More about motorola phonesI’ve spent 2 months with the Motorola Razr+ 2024 and it’s my favorite flip foldable phone of the year — lowest price ever on Amazon nowBest Buy’s 64% off Motorola Razr beats Amazon Prime Day — cheapest foldable phone everLatestM4 Mac mini unveiled with stunningly compact design — over 50% smaller, Thunderbolt 5 support and up to 64GB of unified memorySee more latest ►
+
+
+
+
+
+See all comments (0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+No comments yet
+
+Comment from the forums
+
+
+
+
+
+
+
+Most PopularEufy 4G LTE Cam S330 reviewNexar beam2 Dash Cam reviewRedragon K673 Pro keyboard review: You don't need any other keyboard for less than $70KitchenAid KF8 Coffee Machine review: Hands-free coffee making for stress-free coffee drinking Sony PlayStation Pulse Elite review: Big sound, not-so-big priceMicrosoft Defender reviewMicrosoft Defender reviewAcronis Cyber Protect Home Office reviewUltenic D10 robot vacuum review: Automated mopping and suction for your floorsGlorious GMMK Pro review: still worth it in 2024?Vantrue N4 Pro dash cam review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LATEST ARTICLES1Popular dating apps collect political and religious beliefs – here's how to stay safe2Apple Intelligence on the iPhone: A lot of promise but no must-have features 3Netflix top 10 shows — here's the 3 worth watching right now4Grok gets eyes — X-based chatbot can now analyze images5New on Apple TV Plus in November 2024 — all the movies and shows to watch
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tom's Guide is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+
+Terms and conditions
+Contact Future's experts
+Privacy policy
+Cookies policy
+Accessibility Statement
+Advertise with us
+About us
+Archives
+Careers
+
+
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Motorola Moto G 5G (2023) review: Should you buy it? - Android AuthoritySearch results forAll search results Best daily dealsAffiliate links on Android Authority may earn us a commission. Learn more.
+MobileAndroid phonesRyan Haines / Android AuthorityMotorola Moto G 5G (2023) review: Should you buy it?5G speeds are no longer an exclusive feature on Motorola's budget-friendly Moto G.By Ryan Haines•Published onJuly 20, 2024Motorola Moto G 5G (2023)The Motorola Moto G 5G (2023) doesn't pick up too many upgrades, but it delivers a $150 price cut that brings new value to the budget device, even if it's still not the best in its price tier. With near-stock Android, a solid primary camera, and two-day battery life, the Moto G 5G (2023) is easy to recommend as a decent starter smartphone.What we likeCrisp 120Hz refresh rateSolid main cameraGreat battery lifeLoud stereo speakersSignificant price dropWhat we don't likeWeak update commitmentLimited camera flexibilityPoor video settingsOnly HD+ displayNo NFCMotorola Moto G 5G (2023)The Motorola Moto G 5G (2023) doesn't pick up too many upgrades, but it delivers a $150 price cut that brings new value to the budget device, even if it's still not the best in its price tier. With near-stock Android, a solid primary camera, and two-day battery life, the Moto G 5G (2023) is easy to recommend as a decent starter smartphone.Motorola Moto G 5G (2023) review: At a glance
+
+
+What is it? The Moto G 5G (2023) is Motorola's most affordable 5G-enabled device. It carries a Snapdragon 480 Plus chipset, a 6.5-inch HD Plus display, and a 48MP primary camera. The Moto G 5G (2023) has a 5,000mAh battery and 15W wired charging. It replaces the previous Motorola Moto G 5G (2022) and has a lower price tag. It has also since been replaced by the Motorola Moto G 5G (2024), which you can learn more about down below.
+What is the price? The Motorola Moto G 5G (2023) is priced at $249 in the US and will also be available in Canada later in 2023.
+Where can you buy it? The Motorola Moto G 5G (2023) is available unlocked through Amazon, Best Buy, and Motorola or select carriers, including T-Mobile, Metro by T-Mobile, AT&T, Cricket Wireless, and Google Fi Wireless.
+How did we test it? I tested the Motorola Moto G 5G (2023) for seven days. The review unit was supplied by Motorola.
+Is it worth it? If you're after Motorola's simplest, most affordable 5G experience, you'll find it in the Moto G 5G (2023). It covers the basics nicely and holds onto creature comforts like a headphone jack and expandable storage, though Motorola's update promise is still lacking and there's still no NFC for contactless payments. An upgraded 120Hz refresh rate, decent primary camera, and battery-sipping processor help to make the Moto G 5G (2023)'s price cut even more valuable.
+
+Motorola Moto G 5G (2023)Motorola Moto G 5G (2023)See price at AmazonSave $50.99MSRP: $249.00See reviewSee reviewShould you buy the Motorola Moto G 5G (2023)?Ryan Haines / Android AuthorityMotorola built its budget Android lineup on the idea of having a model for everyone. The Moto G Power went after those who wanted big batteries, the Moto G Stylus covered those who wanted a stylus, and the Moto G Play was the most affordable entertainment-focused option for everyone else. Then, the Moto G 5G brought top-end speeds to the company’s budget portfolio for the first time. Now, with the exception of the super-cheap Play line, 5G has trickled out to other Moto G devices while remaining the Moto G 5G’s only real defining feature. However, to compensate for the lack of new tricks, the Motorola Moto G 5G (2023) packs a serious price cut compared to its predecessor — down to $249 from $399.As usual, Motorola’s budget design is a game of follow the leader. The Moto G 5G (2023) is almost identical to the Moto G Power 5G, sporting a square camera bump, matching plastic construction, and a textured fingerprint-averse finish. It’s not far off from the Moto G Stylus 5G (2023) either, though the Moto G 5G (2023) is slightly smaller and sacrifices the eponymous pen. Motorola’s most affordable 5G device has the thickest side rails of the trio, though they make all of the buttons and ports easier to find with the headphone jack tucked away on the bottom edge. The fingerprint reader is hidden in the power button and proved quick and accurate during our testing, even if it’s not convenient for left-handed use.
+The Moto G 5G (2023) nails the basics while hanging onto comforts like expandable storage and a headphone jack.The Moto G 5G (2023) runs Android 13 out of the box, with Motorola’s light, smooth My UX skin on top. It’s about as close to stock Android as you can get, though there’s quite a bit more bloatware than we’ve seen in recent years, including gaming, shopping, entertainment hubs, and curated apps like Publishers Clearing House Plus — all familiar faces from my time reviewing other recent Moto G phones. Motorola’s underwhelming update support hasn’t improved, either, with the Moto G 5G (2023) pegged to a single Android update and three years of bi-monthly security patches. On the bright side, Motorola has confirmed that the phone will, in fact, receive Android 14 (as expected) — though Motorola was less forthcoming with how soon the update might arrive. Unfortunately, it’s now been a full year, and Android 14 is nowhere in sight. Our Moto G 5G (2023) has picked up several security patches but hasn’t received its main update yet. Unlike most phones, even at this price, there’s still no NFC either. That means you won’t be able to use Google Pay or Nearby Share.On the bright side, there’s no shortage of screen real estate on the Moto G 5G (2023). It packs a 6.5-inch HD+ LCD panel with a 120Hz refresh rate and a 20:9 aspect ratio. The refresh rate is nice, but it’s a little dim in sunlight and the 720p resolution is a little lacking even at this price. Hiding behind that display is Qualcomm’s Snapdragon 480 Plus chipset, backed by 4GB of RAM. The chipset was good enough for casual use during my time with the phone, including scrolling social media and responding to work emails while away from my desk, but gaming is a virtual non-starter. Intense titles like Genshin Impact lagged heavily, and lighter games like Marvel Snap were still enough to beat up the battery.
+
+Motorola has learned a few lessons with its budget-friendly camera phone setups, the most important of which is ditching the 2MP depth sensor. The Moto G 5G (2023) now carries just two rear lenses — a 48MP wide shooter backed by a 2MP macro option. While the dedicated macro lens wasn’t particularly impressive, the primary camera offers larger pixels and a wider maximum aperture than its predecessor. Motorola is also slowly but surely making progress in image processing, with generally accurate colors and decent details in good lighting. However, the two-camera setup significantly limits the Moto G 5G (2023)’s zoom flexibility. You can check out a gallery of camera samples here.Unfortunately, the Motorola Moto G 5G (2023) isn’t a video shooter’s best friend. Quality tops out at 1080p at 30fps on both the front and back — including the macro sensor. This is in line with other budget phones at similar price points but is probably not useful for much more than sharing on an Instagram story that will disappear after a while. What’s more interesting is that the Moto G 5G (2023) defaults to a 9:16 aspect ratio for video instead of its 3:4 standard for photos. It’s meant for social media shooting, just not high enough quality. On the bright side, the Moto G 5G (2023) has stereo speakers, pairing a single down-firing unit with the earpiece. I was impressed and pleasantly surprised by the volume — even if there’s some distortion once you hit the highest level.Sticking with the good news, a modest 5G processor and excellent battery life are still a match made in heaven. While the Moto G 5G (2023) won’t cruise through intensive gaming, I pushed through around two days of mixed usage. I spent time scrolling on social media, streaming music through Spotify, and some light navigation while in New York City. The Moto G 5G (2023) seems to handle any of these tasks without issue, though when you combine two — like Spotify and navigation — battery results suffer. Thankfully, the Moto G 5G (2023) supports 15W wired speeds, an upgrade from the previous 10W rate so that you can get back up to a full charge in around an hour and forty minutes. There’s no wireless charging, nor is there a charger in the box, so you may want to invest in your own wall charger with the money saved from Motorola’s price cut.
+Motorola Moto G 5G (2023)Motorola Moto G 5G (2023)Crisp 120Hz refresh rate  •  Great battery life  •  Significant price dropMSRP: $249.00Moto G for less.The Motorola Moto G 5G (2023) delivers a $150 price cut that brings new value to the budget device. With near-stock Android, a solid primary camera, and two-day battery life, the Moto G 5G (2023) is easy to recommend as a starter smartphone.See price at AmazonSave $50.99What are the best Motorola Moto G 5G (2023) alternatives?Ryan Haines / Android AuthorityMotorola’s latest Moto G 5G (2023) chops its asking price, bringing it up against some of the most affordable Android phones you can find. Here are just a few worth considering:
+
+Samsung Galaxy A15 5G ($174.8 at Amazon): Like the Moto G 5G, Samsung’s most affordable 5G device got a price cut to go with its flagship-inspired style. It beats Motorola’s entry with better software support and a more reliable 50MP primary camera. Both phones share an affinity for plastic constructions, however.
+OnePlus Nord N30 ($299 at Amazon): The step-up Nord is, in many ways, closer to the Motorola Moto G Power 5G (2023). It sticks with a simple design, adds a third rear camera, and a smooth 120Hz refresh rate for good measure. We prefer Motorola’s software experience, though arguing with the Nord N30’s 33W wired charging is tough. OnePlus also beats Motorola in offering a less-than-impressive two years of security coverage.
+Motorola Moto G Power 5G (2024) ($299.99 at Amazon): Motorola’s latest Moto G Power 5G puts quite a bit more power back into its name, offering an updated Dimensity 7020 chipset, revamped cameras, and much-needed 30W wired charging. The budget phone finally supports NFC and now comes with Android 14 right out of the box, even if it doesn’t benefit from an improved update commitment.
+Motorola Moto G 5G (2024) ($179.99 at Amazon): The newer Moto G 5G is bigger and, at the very least, better looking than ever. Motorola’s updated design includes a vegan leather back panel in a sage colorway that’s among the best we’ve seen from the company, and it gets a charging upgrade in the form of 18W wired speeds. There’s still a microSD slot on the side, but Motorola finally doubled its base storage to 128GB without raising the price.
+
+Motorola Moto G 5G (2023) specs
+Motorola Moto G 5G (2023)Display6.5-inch LCD1,600 x 720 resolution (HD+)120Hz refresh rate 269ppiProcessorSnapdragon 480+RAM4GBStorage128GBPower5,000mAh battery15W wired chargingCamerasRear:- 48MP wide, f/1.7, PDAF- 2MP macro, f/2.4Selfie:- 8MP wide, f/2.0AudioStereo speakers2 microphonesVideoPrimary: 1080p at 30fpsMacro: 720p at 30fpsDurabilityPlastic back and frameIP52 ratingConnectivityWi-Fi 6Bluetooth 5.1BiometricsSide-mounted fingerprint readerPorts and switchesUSB 2.0 via USB-CSoftwareAndroid 131 full Android updates3 years of bi-monthly security patchesDimensions and weight163.9 x 74.9 x 8.4mm189 gramsColorsInk BlueHarbor GrayIn the boxMotorola Moto G 5G (2023)USB-C cableSIM ejector toolQuick start guideMotorola Moto G 5G (2023) review: FAQ
+ Does the Motorola Moto G 5G (2023) have NFC?No, the Moto G 5G (2023) does not have NFC.
+ Is the Motorola Moto G 5G (2023) waterproof?The Moto G 5G (2023) is not waterproof, though it does have an IP52 rating against splashes and some dust.
+ Is the Motorola Moto G 5G (2023) dual-SIM?Yes, the Motorola Moto G 5G (2023) supports a single nano-SIM and one eSIM.
+ Does the Motorola Moto G 5G (2023) have expandable storage?Yes, the Moto G 5G (2023) has expandable microSD storage.
+Does Moto G 5G (2023) have a fingerprint sensor?Yes, the Moto G 5G (2023) has a side-mounted fingerprint reader.
+You might likeReviewsMotorolaMotorola Moto GComments
+
+
+
+  Moto G71 5G Review: The Android Purist's Dream (Almost) | HATAF TECH           
+TechArtificial IntelligenceBlogbusinessMachine Learning
+
+Search
+TechArtificial IntelligenceBlogbusinessMachine LearningTechArtificial IntelligenceBlogbusinessMachine LearningMoto G71 5G Review: The Android Purist’s Dream (Almost)
+All copyrighted images used with permission of the respective copyright holders.Image Source: www.gadgets360.comSeptember 1, 2024By Brian Adams   The Moto G71 5G: A Reliable 5G Smartphone With Stock Android And A Powerful Processor – But Is It The Best Option?Motorola has made a name for itself in the budget 5G smartphone market with its G series, offering compelling options for users who prioritize value and performance. Their latest addition, the Moto G71 5G, features the  Snapdragon 695 SoC, a first in India, and a 50-megapixel primary rear camera, promising impressive performance and excellent image quality. But does this new phone truly stand out from the competition?  We put the Moto G71 5G through a rigorous testing process to understand its strengths and weaknesses and determine if it’s a worthy pick for your next smartphone.Moto G71 5G Price in IndiaThe Moto G71 5G, available in a single configuration with 6GB of RAM and 128GB of storage, is priced at Rs. 18,999 in India. It is exclusively sold on Flipkart and comes in two color options: Neptune Green and Artic Blue.Moto G71 5G Design: A Compact And Comfortable ExperienceThe Moto G71 5G stands out for its compact size, making it comfortable to hold for extended periods. Motorola has carefully considered ergonomics, incorporating curved sides that enhance grip and feel. The phone boasts a 6.4-inch display with a hole-punch camera and thin bezels, enabling effortless one-handed use, although reaching the very top of the display might require a slight adjustment.While the plastic frame doesn’t feel cheap, the right side feels a bit cluttered with tightly spaced buttons: the textured power button, easily recognizable by touch, the volume buttons, offering satisfying clicky feedback, and the Google Assistant button, which could have been more conveniently placed on the left side. The left side houses the SIM tray.   The rear of the phone features a glossy finish, which attracts fingerprints and smudges easily, although the included case can mitigate this. The camera module protrudes slightly, yet it remains less obtrusive compared to many other phones.The bottom edge houses the 3.5mm headphone jack, primary microphone, USB Type-C port, and loudspeaker, while the top edge has a secondary microphone.  The phone is splash-resistant and weighs 179g, making it manageable in hand.Moto G71 5G Specifications and Software: A Blend of Power and Stock AndroidMotorola has opted for a slightly different hardware approach with the Moto G71 5G. It features a 6.4-inch AMOLED display with full-HD+ resolution and scratch-resistant glass, but it only includes a standard 60Hz refresh rate. While some phones like the Realme 8s 5G and Moto G51 offer higher refresh rates, they lack AMOLED panels, highlighting the trade-offs in this price segment.   Powering the Moto G71 5G is the Qualcomm Snapdragon 695, making it the first smartphone in India to feature this octa-core chip clocked at 2.2GHz. The phone also includes 6GB of RAM with a RAM boost feature that utilizes 1.5GB of storage as RAM by default.The Moto G71 5G sports a impressive 13 5G bands, leading the pack in India’s price range. Additional features include 4G VoLTE, Bluetooth 5, NFC, dual-band Wi-Fi, and six satellite navigation systems.  It packs a 5,000mAh battery and comes bundled with a 33W TurboPower charger.   Out of the box, the Moto G71 5G runs stock Android 11 with the December Android security patch. While a update to Android 12 is expected, the timeline remains unconfirmed. MyUX, Motorola’s customisation layer, is unobtrusive, ensuring those who prefer stock Android will feel right at home.Further enhancements include Moto Actions, allowing you to perform actions through gestures. Legacy features like the double-chop gesture to toggle the flash and flip-to-silence are also present. The Moto Gametime app quickly mutes notifications and disables auto-brightness during gaming sessions.   Motorola has long been known for its minimal bloatware, with only essential Google apps preinstalled. However, the Moto G71 5G comes with Cred and Facebook, which thankfully can be removed.Moto G71 5G Performance and Battery Life: A Smooth Experience With Long-Lasting PowerThe Moto G71 5G delivers a smooth and snappy performance. Apps and games  load quickly, and multitasking between them is a breeze thanks to the 6GB of RAM.  However, a minor lag was noticeable in the camera viewfinder when the battery level dropped below 15 percent, even without enabling battery saver mode.  Aside from this minor anomaly, the Moto G71 5G consistently impressed.The rear-mounted fingerprint scanner is accurate and unlocks the phone with a single attempt. Face recognition is also reliable. The AMOLED display offered good viewing angles and adequate brightness, making it enjoyable for watching videos even outdoors.   Being the first in India to feature the Qualcomm Snapdragon 695, we were curious about the Moto G71 5G’s performance against the competition. In the AnTuTu benchmark, it scored 3,78,268 points, surpassing the MediaTek Dimensity 810-powered Redmi Note 11T 5G. In Geekbench 5’s single-core and multi-core tests, the Moto G71 5G scored 668 and 1,900 points, respectively. It also achieved 60fps and 18fps in GFXBench’s T-Rex and Car Chase tests, respectively, and 4,159 in 3DMark’s Sling Shot test.Playing Battlegrounds Mobile India (BGMI) on the Moto G71 5G defaulted to ‘HD’ graphics and ‘High’ frame rate, showcasing smooth gameplay without any issues.  After 33 minutes, the battery level dropped by six percent, an acceptable rate. The phone remained cool to the touch even after this extended gaming session.The Moto G71 5G consistently provided around a day and a half of battery life, with casual users potentially squeezing even more out of it. Heavy users can expect at least a full day of use.  In our HD video loop test, the G71 5G lasted for 17 hours and 58 minutes, a commendable result for a 5,000mAh battery. The bundled 33W charger efficiently recharges the phone, taking it from zero to 54 percent in 30 minutes and about 91 percent in an hour.   Moto G71 5G Cameras: Delivering Decent Daylight Performance, But Struggling in Low LightThe Moto G71 5G packs a triple camera setup consisting of a 50-megapixel primary camera with an f/1.8 aperture, an 8-megapixel ultra-wide angle camera with a 118-degree field of view, and a 2-megapixel macro camera. For selfies, it has a 16-megapixel front camera.Motorola’s camera app is straightforward and easy to use. The commonly used photo and video shooting modes are prominent, while others are neatly tucked away in a menu. Notably, the app remembers the last shooting mode, speeding up the process of picking up where you left off. Aside from the occasional lag in the viewfinder, the camera app worked smoothly.The Moto G71 5G swiftly locked focus and exposure. It saves photos at 12.5 megapixels by default. Daylight photos demonstrated decent detail, with objects at a distance remaining identifiable. However, dynamic range was limited to average, resulting in blown-out highlights in bright scenes. Ultra-wide angle photos suffered from lower detail and exhibited warping at the edges of the frame.Close-ups were crisp and colors were accurate. The wide aperture softens the background, creating a pleasing blur effect that enhances subject isolation. The camera UI intelligently suggests switching to the macro camera when you’re near a subject. Macro shots lacked the same level of detail, but the camera offered a close-up perspective. Portrait mode displayed precise edge detection, allowing you to adjust the blur level before taking the shot.Low-light camera performance was a weak point. Photos lacked detail and appeared grainy upon closer inspection. Activating Night mode significantly brightened output, particularly in shadowy areas, taking about four to five seconds per shot. However, artifacting was visible upon closer examination.Selfies taken with the Moto G71 5G were crisp, and portraits displayed a convincing background blur effect. Low-light selfies were decent enough for social media sharing.Video recording maxed out at 1080p for both the primary and selfie cameras. The phone exclusively relies on electronic image stabilisation (EIS), which is enabled by default. Footage captured while walking had a subtle shimmer during the day, becoming more pronounced in low-light conditions.   Verdict: A Solid Option For Stock Android Lovers, But With Some Camera CaveatsThe sub-Rs. 20,000 smartphone market is witnessing a growing number of 5G-enabled options from every major manufacturer. The Moto G71 5G emerges as a capable contender in this price range, offering compelling features that warrant consideration. Its powerful processor, lasting battery life with fast charging, and respectable cameras, make it a strong contender.  Those who prioritize a no-frills design and stock Android experience will find the Moto G71 5G especially appealing.The low-light camera performance constitutes the primary drawback, hindering the phone’s quest for all-around excellence. Potential buyers should weigh this factor carefully.If you’re seeking alternatives in this price range, the Redmi Note 11T 5G, Realme 8s 5G, and iQoo Z3 are worthy contenders. Each possesses its own unique advantages, making it essential to compare features and prioritize your needs before making a decision.Article Reference   Brian AdamsBrian Adams is a technology writer with a passion for exploring new innovations and trends. His articles cover a wide range of tech topics, making complex concepts accessible to a broad audience. Brian's engaging writing style and thorough research make his pieces a must-read for tech enthusiasts.Tags5GAndroidAndroid phonesBudget Phonesmidrange phonesmoto g71moto g71 5gmoto g71 5g launch in indiamoto g71 5g reviewmoto g71 5g review price in india snapdragon 695 motorola motorolareviewAgatha All Along: Creator Unveils Secrets of Episode 7’s Shocking Twist
+Tech Updates
+
+Alex Parker -  Can Pig Brains Be Brought Back to Life?  Scientists Achieve Stunning Breakthrough
+Tech Updates
+
+Alex Parker -  OnePlus 13 Display: Leaked Specs Blow Our Minds Before October 31st Launch
+Android
+
+Brian Adams -  Previous articleCan Windows Finally Solve the Search Problem for Your Audio and Video Files?Next articleIs Microsoft Copilot About to Take Over Your Android Phone? TechArtificial IntelligenceBlogbusinessMachine LearningUseful LinksContact UsAbout UsGDPR PolicyCookiesPrivacy PolicyTerms And ConditionArticlesWhat Are the Steps to Become an Online Tutor and Make Money Online?Profitable Affiliate Marketing Strategies for Stay-at-Home MomsWhy Is Affiliate Marketing Ideal for Stay-At-Home Moms?SubscribeSubscribeFollow my blog with Bloglovin© Hataf Tech. All rights reserved. 2024InstagramLinkedinTwitter
+         
+
+
+
+
+
