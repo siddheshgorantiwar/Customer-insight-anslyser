@@ -12,7 +12,7 @@ class YouTubeVideoLoader:
 
 
     def search_youtube_videos(self):
-        api_key = "AIzaSyDF5t5eIcGe5QEEAflaYZ0wSXXkOAKPLH4"  # Replace with your actual API key
+        api_key = "AIzaSyDF5t5eIcGe5QEEAflaYk0wSXXkOAKPLH4"  # Replace with your actual API key
         url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults={self.max_results}&q={self.query}&key={api_key}"
         response = requests.get(url)
         results = response.json()
